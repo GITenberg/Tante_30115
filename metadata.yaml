@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2634
     wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30115#Tante
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
